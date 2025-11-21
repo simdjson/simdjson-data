@@ -69,6 +69,23 @@ Feel free to contribute additional JSON examples by submitting pull requests. Pl
 - Examples represent real-world use cases where possible
 - Sensitive or personal data is not included
 
+## Citation
+
+If you use this dataset in research or a publication, please cite it.
+
+
+Example BibTeX entry:
+
+```bibtex
+@misc{simdjson-data,
+  title = {{simdjson-data: A collection of JSON example files}},
+  author = {Daniel Lemire},
+  year = {2025},
+  howpublished = {\url{https://github.com/simdjson/simdjson-data}}
+}
+```
+
+
 ## License
 
 This repository is provided for educational and testing purposes. Please check individual files for any specific licensing information.
